@@ -1,5 +1,10 @@
 # 📊 Supermarket Performance & Insights Dashboard
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Measures-blue)
+![Power Query](https://img.shields.io/badge/Power%20Query-ETL-green)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+
 An interactive **Microsoft Power BI** dashboard developed to analyze supermarket sales performance, profitability, customer behavior, and product performance using over **5,000 retail transactions**. The dashboard transforms raw transactional data into actionable business insights, enabling stakeholders to make informed, data-driven decisions.
 
 ---
