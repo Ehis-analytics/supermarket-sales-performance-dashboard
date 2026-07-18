@@ -23,6 +23,23 @@ This project addresses that challenge by providing a comprehensive Business Inte
 - Identify business trends over time
 
 ---
+## 📑 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Business Objectives](#-business-objectives)
+- [Dataset](#-dataset)
+- [Tools & Technologies](#-tools--technologies)
+- [Data Preparation](#-data-preparation)
+- [Dashboard Pages](#-dashboard-pages)
+- [Key Performance Indicators](#-key-performance-indicators)
+- [Key Insights](#-key-insights)
+- [Business Recommendations](#-business-recommendations)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Dashboard Preview](#-dashboard-preview)
+- [Repository Structure](#-repository-structure)
+- [Conclusion](#-conclusion)
+- [Author](#-author)
+  
 
 ## 🎯 Business Objectives
 
