@@ -31,7 +31,7 @@ This project addresses that challenge by providing a comprehensive Business Inte
 - [Tools & Technologies](#-tools--technologies)
 - [Data Preparation](#-data-preparation)
 - [Dashboard Pages](#-dashboard-pages)
-- [Key Performance Indicators](#-key-performance-indicators)
+- [Key Performance Indicators](#-key-performance-indicators-kpis)
 - [Key Insights](#-key-insights)
 - [Business Recommendations](#-business-recommendations)
 - [Skills Demonstrated](#-skills-demonstrated)
@@ -56,7 +56,9 @@ The dashboard was designed to answer key business questions, including:
 
 ## 📂 Dataset
 
-The analysis is based on approximately **5,010 supermarket sales transactions**.
+The dashboard was developed using a retail supermarket sales dataset containing over **5,000 sales transactions**.
+
+To keep the repository lightweight, the raw dataset is not included. However, the complete Power BI report (`.pbix`) is provided, allowing users to explore the data model, visualizations, and business insights directly in Microsoft Power BI Desktop.
 
 ### Dataset Features
 
@@ -319,23 +321,21 @@ Detailed analysis of sales performance for the **South** region.
 ![South Region Dashboard](assets/south-region-dashboard.png)
 ---
 
-# 📁 Repository Structure
+## 📁 Repository Structure
 
 ```text
 supermarket-sales-performance-dashboard/
 │
 ├── README.md
-├── supermarket-performance-dashboard.pbix
-├── supermarket_sales_dataset.csv
-├── assets/
-│   ├── executive-dashboard.png
-│   ├── sales-performance.png
-│   ├── profitability-analysis.png
-│   ├── customer-insights.png
-│   ├── product-performance.png
-│   ├── sales-trend-analysis.png
-│   └── business-insights.png
-└── LICENSE
+├── supermarket performance dashbaord.pbix
+└── assets/
+    ├── overview-dashboard.png
+    ├── category-analysis.png
+    ├── product-analysis.png
+    ├── west-region-dashboard.png
+    ├── east-region-dashboard.png
+    ├── central-region-dashboard.png
+    └── south-region-dashboard.png
 ```
 
 ---
