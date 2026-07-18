@@ -240,21 +240,61 @@ Adopt interactive dashboards for continuous performance monitoring and timely de
 
 ---
 
-# 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-> Add screenshots from each dashboard page in the `assets/` folder.
+### Executive Overview
 
-```text
-assets/
-├── executive-dashboard.png
-├── sales-performance.png
-├── profitability-analysis.png
-├── customer-insights.png
-├── product-performance.png
-├── sales-trend-analysis.png
-└── business-insights.png
-```
+Provides a summary of the supermarket's overall performance, including key KPIs such as Total Sales, Total Profit, Profit Margin, Total Orders, Customer Count, regional sales comparison, and preferred shipping methods.
 
+![Executive Overview](assets/overview-dashboard.png)
+
+---
+
+### Category & Customer Analysis
+
+This page analyzes revenue and profit by product category while highlighting the top 10 most valuable customers.
+
+![Category & Customer Analysis](assets/category-analysis.png)
+
+---
+
+### Product Performance Analysis
+
+This dashboard identifies the highest profit margin products, top revenue-generating products, and products with the lowest profit margins.
+
+![Product Performance Analysis](assets/product-analysis.png)
+
+---
+
+### West Region Dashboard
+
+Detailed analysis of sales performance for the **West** region.
+
+![West Region Dashboard](assets/west-region-dashboard.png)
+
+---
+
+### East Region Dashboard
+
+Detailed analysis of sales performance for the **East** region.
+
+![East Region Dashboard](assets/east-region-dashboard.png)
+
+---
+
+### Central Region Dashboard
+
+Detailed analysis of sales performance for the **Central** region.
+
+![Central Region Dashboard](assets/central-region-dashboard.png)
+
+---
+
+### South Region Dashboard
+
+Detailed analysis of sales performance for the **South** region.
+
+![South Region Dashboard](assets/south-region-dashboard.png)
 ---
 
 # 📁 Repository Structure
